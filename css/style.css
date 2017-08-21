@@ -32,7 +32,8 @@ table {
 	border-spacing: 0;
 }
 #banner{
-    background: url(../img/banner-bg.jpg) no-repeat center top;
+    /*background: url(../img/banner-bg.jpg) no-repeat center top;*/
+    background: url(../img/IMG_1242.jpg) no-repeat center top;
     background-size: cover;
     min-height: 630px;
 }
@@ -41,7 +42,7 @@ table {
     min-height: 630px;
 }
 #banner h2{
-    font-family: 'Satisfy', sans-serif;
+    font-family: 'Segoe Print Regular', sans-serif;
     font-size: 45px;
     color: #FFB03B;
 }
@@ -54,7 +55,8 @@ table {
     padding: 60px 0px;
 }
 .logo-name{
-    font-family: 'Satisfy', sans-serif;
+    /*font-family: 'Segoe Print Regular', sans-serif;*/
+    font-family: 'Segoe Print Regular', sans-serif;
     font-size: 65px;
     margin-top: 140px;
     color: #FFB03B;
@@ -104,7 +106,7 @@ table {
 .header-h {
     color: #FFB03B;
     font-size: 46px;
-    font-family: 'Satisfy', sans-serif;
+    font-family: 'Segoe Print Regular', sans-serif;
     font-weight: 300;
 }
 .header-p {
@@ -254,7 +256,7 @@ table {
 
 
 .heading{
-    font-family: 'Satisfy', sans-serif;
+    font-family: 'Segoe Print Regular', sans-serif;
     color: #FFB03B;
     font-size: 24px;
 }
@@ -297,7 +299,7 @@ table {
     color: #FFB03B;
     font-size: 32px;
     padding-bottom: 15px;
-    font-family: 'Satisfy', sans-serif;
+    font-family: 'Segoe Print Regular', sans-serif;
 }
 .content-holder address strong {
     color: #FFB03B;
@@ -359,7 +361,7 @@ table {
     display: block;
     float: left;
     color: #B1B1B1;
-    font-family: Satisfy,'Open Sans',arial;
+    font-family: Segoe Print Regular,'Open Sans',arial;
     font-size: 1.2rem;
 }
 .menu-restaurant span.clearfix {
@@ -410,7 +412,7 @@ table {
 .footer .widget-title{
     padding-bottom: 20px;
     font-family: 'Segoe Print Regular';
-/*    font-family: 'Satisfy', sans-serif;
+/*    font-family: 'Segoe Print Regular', sans-serif;
 */    font-size: 44px;
     color: #FFB03B;
 }
