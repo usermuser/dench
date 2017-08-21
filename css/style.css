@@ -5,6 +5,7 @@
     Author URL: https://bootstrapmade.com
     Changed strings #
     408(changed font to Segoe Print Regular)
+    278
 */
 
 body {
@@ -38,7 +39,7 @@ table {
     min-height: 630px;
 }
 .bg-color{
-    background-color: RGBA(0, 0, 0, 0.61);
+    background-color: RGBA(0, 0, 0, 0.41);
     min-height: 630px;
 }
 #banner h2{
@@ -276,7 +277,8 @@ table {
     border-radius: 2px;
 }
 #event{
-    background: url('../img/res02.jpg') no-repeat;
+    /*background: url('../img/res02.jpg') no-repeat;*/
+    background: url('../img/IMG_1226.jpg') no-repeat;
     background-size: cover;
 }
 .left-images img {
