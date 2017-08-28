@@ -1608,6 +1608,11 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+.centered-row { 
+  margin: auto;
+  /*width: 90%;*/ 
+  
+}
 .row {
   margin-right: -15px;
   margin-left: -15px;
