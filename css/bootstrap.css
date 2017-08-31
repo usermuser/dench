@@ -5017,6 +5017,19 @@ a.badge:focus {
        -o-transition: border .2s ease-in-out;
           transition: border .2s ease-in-out;
 }
+.thumbnail-catalog {
+  display: block;
+  background: url('http://placehold.it/256x256') no-repeat center;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  /*background-color: #fff;*/
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;
+}
 .thumbnail > img,
 .thumbnail a > img {
   margin-right: auto;
