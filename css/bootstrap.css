@@ -4,6 +4,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
  /*changed page 99(yellow color of link*/
+/*also changed page 5020*/
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
@@ -5019,7 +5020,7 @@ a.badge:focus {
 }
 .thumbnail-catalog {
   display: block;
-  background: url('http://placehold.it/256x256') no-repeat center;
+  /*background: url('http://placehold.it/256x256') no-repeat center;*/
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
